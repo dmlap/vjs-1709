@@ -1,0 +1,18 @@
+{
+  "name": "vjs-1709",
+  "version": "1.0.0",
+  "description": "Test for video.js#1709",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David LaPalomento",
+  "license": "Apache2",
+  "dependencies": {
+    "video.js": "^4.10.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.9.0"
+  }
+}
